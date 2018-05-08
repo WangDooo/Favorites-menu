@@ -1,0 +1,2 @@
+1. ER图流程图 https://www.processon.com/
+2. Django 2.0中文 https://docs.djangoproject.com/zh-hans/2.0/
